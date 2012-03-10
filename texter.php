@@ -1,4 +1,4 @@
 <?
-	print "mygood sdfsdf asdasdasdasd oooooooooo";
+	print "my  ood sdfs  df asdasdasdasd oooooooooo";
 
 ?>
