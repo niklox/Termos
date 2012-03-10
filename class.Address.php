@@ -20,6 +20,7 @@
 | AdditionalInfo | text         | YES  |     | NULL    |       |
 | Flag           | int(11)      | YES  |     | NULL    |       |
 +----------------+--------------+------+-----+---------+-------+
+remadan
 */
 
 class Address {
