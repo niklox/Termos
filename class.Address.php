@@ -20,7 +20,7 @@
 | AdditionalInfo | text         | YES  |     | NULL    |       |
 | Flag           | int(11)      | YES  |     | NULL    |       |
 +----------------+--------------+------+-----+---------+-------+
-could this be the thing or not
+could this be the thing or not or to be seen
 */
 
 class Address {
