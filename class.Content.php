@@ -29,6 +29,7 @@ mysql> desc PageContent;
 
 Associera artiklar (subjectclass ?)
 Kommentera artiklar (Discussions ?)
+Eller nåt liknande
 */
 
 class Content {
