@@ -1,4 +1,0 @@
-<?
-	print "Learning to crawl";
-
-?>
