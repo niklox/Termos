@@ -1,4 +1,4 @@
 <?
-	print "mygood";
+	print "mygood sdfsdf asdasdasdasd oooooooooo";
 
 ?>
