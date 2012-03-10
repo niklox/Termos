@@ -1,4 +1,0 @@
-<?
-
-	print "And to realize";
-?>
