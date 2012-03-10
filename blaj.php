@@ -1,4 +1,4 @@
 <?
 
-	print "my second ssssssssssssssssstyff";
+	print "my second obe dobe styff";
 ?>
