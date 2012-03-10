@@ -1,0 +1,4 @@
+<?
+
+	print "my second styff";
+?>
