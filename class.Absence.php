@@ -1,6 +1,6 @@
 <?php
 /*
-En massasasssasasas text
+En massa text i alla fall
 mysql> desc AbsenceReport;                                                                                    
 +------------------+----------+------+-----+---------+-------+
 | Field            | Type     | Null | Key | Default | Extra |
